@@ -21,7 +21,7 @@ except IOError as ex:
 ###########################################################
 # TOP-LEVEL MODULES
 ###########################################################
-from underthesea.sent_tokenize import sent_tokenize
+#from underthesea.sent_tokenize import sent_tokenize
 from underthesea.word_tokenize import word_tokenize
 from underthesea.pos_tag import pos_tag
 from underthesea.chunking import chunk
